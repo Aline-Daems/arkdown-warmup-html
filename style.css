@@ -4,7 +4,9 @@ h1 {
 
 }
 
-.center {
+.quote {
 
     text-align: center;
+    margin-top: 10px;
+    
 }
