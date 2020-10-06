@@ -1,6 +1,9 @@
 body {
 
-    background-image: url('https://images.freeimages.com/images/large-previews/96f/color-background-11-1634954.jpg');
+    background-image: url('http://www.lecontreplaque.com/wp-content/uploads/2013/11/pieces-abstract-background-bubble-artik.png');
+    background-attachment:fixed;
+    background-repeat:no-repeat;
+    margin-left: 30px;
 }
 
 
@@ -8,13 +11,84 @@ h1 {
 
     text-align: center;
     font-family: 'Parisienne', cursive;
+    color: #ffffff;
 
 }
 
+h2 {
+
+    color: #ffffff;    
+}
+
+h3 {
+
+    color: #ffffff;  
+}
+
+h4 {
+
+    color: #ffffff;  
+}
+
+h5 {
+
+    color: #ffffff;  
+}
 .quote {
 
     text-align: center;
-    margin-top: 10px;
     font-family: 'Parisienne', cursive;
+    color: #ffffff;
+    margin: 0px;
+    font-size: 17px;
 
+}
+
+img { 
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75); 
+    border: 1px solid black;
+    border-radius: 10px;
+
+}
+
+table, td, th, tr {
+
+    color: #ffffff;
+    border: 1px double white;
+}
+
+li {
+
+    color: #ffffff;  
+}
+p {
+
+    color: #ffffff;  
+}
+
+span {
+
+    color: #fff;
+}
+
+a {
+
+    color: #33f3ff;
+}
+
+a:hover {
+
+    color: #33c0c8;
+}
+
+a:visited {
+
+    color:#696767;
+}
+
+.button{
+
+    text-align: center;
 }
