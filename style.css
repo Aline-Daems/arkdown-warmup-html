@@ -1,6 +1,13 @@
+body {
+
+    background-image: url('https://images.freeimages.com/images/large-previews/96f/color-background-11-1634954.jpg');
+}
+
+
 h1 {
 
     text-align: center;
+    font-family: 'Parisienne', cursive;
 
 }
 
@@ -8,5 +15,6 @@ h1 {
 
     text-align: center;
     margin-top: 10px;
-    
+    font-family: 'Parisienne', cursive;
+
 }
